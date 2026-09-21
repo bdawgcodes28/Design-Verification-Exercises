@@ -1,7 +1,7 @@
 // testbe1nch to test the functionality of 4-bit counter
 `timescale 1ns/1ps
 
-module counter_tb();
+module test();
 
 	// inputs and outputs
 	logic clk; // clock signal
@@ -27,7 +27,7 @@ module counter_tb();
 		// dumpfile to view signals
 		$dumpfile("dump.vcd");
 		// dump all signals in the test bench
-		$dumpvars(0, counter_tb);
+		$dumpvars(0, test);
 
 		// test cases
 		en = 0;
