@@ -1,4 +1,4 @@
-# Design-Verification-Exercises
+# Design Verification Exercises
 This repository will help students involved with Aggie Silicon & Integrated Circuits (ASIC) develop base level proficiency in design verification. While
 working through the exercises in this repository, students will be exposed to several aspects of hardware design verification. If you 
 have any questions while working through the following exercises, please reach out via GroupMe, or email 
