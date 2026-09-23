@@ -7,4 +7,5 @@ several bugs. For this exercise, you will do the following:
 3. Once you have completed all tasks, run the verilator simulation and view the gtkwave waveform. Observe the behavior of the design and compare against how you know it should behave.
 4. Make microadjustments until the design works properly.
 
-Do your best to complete this 
+Do your best to complete this exercise without looking at the working example. If you are stuck, we recommend you reference the working example before using AI.
+If you have questions, please reach out via GroupMe, or contact Bryson Fields (bafields1@aggies.ncat.edu) or Zachary Johnson (zejohnson3@aggies.ncat.edu)
