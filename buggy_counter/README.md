@@ -1,5 +1,5 @@
 # Buggy 4-Bit Counter Exercise
-This director contains a SystemVerilog design of a 4-bit counter that has a few bugs.
+This directory contains a SystemVerilog design of a 4-bit counter that has a few bugs.
 For this exercise you will do two things:
 
 1. Write a testbench based on the 4-bit counter designed found in this directory.

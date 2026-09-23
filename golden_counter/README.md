@@ -20,7 +20,7 @@ increase if the enable signal is active
 2. The enable signal (en) is active high. This means that when en = 1, the count will be enabled to increment
 3. The reset signal (rst_n) is active low. This means that when rst_n = 0, the count will reset to 0
 
-# Running through working example
+# Running working example
 Take a moment to look through both the counter design and the testbench. You can navigate to them using the following commands:
 ```bash
 cd counter design
